@@ -1,0 +1,3 @@
+DB_URI=postgresql://postgres:rmy@localhost:5432/restful_python
+API_KEY=aku-kamu-dia
+JWT_TOKEN=dafa-shella-aldi-ilma
