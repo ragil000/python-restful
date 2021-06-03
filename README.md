@@ -19,7 +19,7 @@ pipenv shell
 Setelah berjalan, kemudian install semua _packages_,
 
 ```bash
-pipenv install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Running
